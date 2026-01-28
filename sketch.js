@@ -126,7 +126,7 @@ function draw() {
   // Keeps the canvas locked to the screen
   let canvas = document.querySelector('canvas');
   if (canvas) {
-    canvas.style.position = 'Relative';
+    canvas.style.position = 'fixed';
     canvas.style.top = '0';
     canvas.style.left = '0';
   }

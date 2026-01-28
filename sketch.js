@@ -1,6 +1,6 @@
 let letters = [];
 let instructions = [];
-let margin = 100; 
+let margin = 80; 
 let roamer = { x: 1, y: 0, t: 0, char: '§' };
 
 let poem = `54.
@@ -114,7 +114,7 @@ no light no lie no confession
 function setup() {
   createCanvas(windowWidth, windowHeight);
   textFont('garamond');
-  textSize(56);
+  textSize(36);
   
   roamer.x = width / 5;
   roamer.y = height / 5;

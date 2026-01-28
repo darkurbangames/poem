@@ -48,7 +48,7 @@ to take
  You down 
    hades way. 
 
-#2666 the goal of the system is to remove the cost of all labor and acquire only wealth; currencies that produce only currency in the grind is all that matters in the system. 
+2666 the goal of the system is to remove the cost of all labor and acquire only wealth; currencies that produce only currency in the grind is all that matters in the system. 
    a veneered reality is traveling towards us, a façade of illusions in media and our consumptions. 
    the machine must be fed.
    brvnew wrld2.0 order.
@@ -57,10 +57,10 @@ to take
    siblings, know this..
    siblings, this is war.
    the machine will be fed. 
-   & we shall feed it death. ☠️
+   & we shall feed it death. 
 .                         404dante
 
-#27 
+27 
                      the glass(sic) 
                     it moistmoves, it's in 
                    the wetwere, we.where
@@ -79,9 +79,9 @@ pulse wet.
 that's the end.
 (sic)
 
-#28. mise en function 
+28. mise en function 
 
-… corrupts disruption 
+ ... corrupts disruption 
 It's bursting for the dryline 
 enter admin acc } { facing batch 
 
@@ -114,7 +114,7 @@ no light no lie no confession
 function setup() {
   createCanvas(windowWidth, windowHeight);
   textFont('garamond');
-  textSize(26);
+  textSize(20);
   
   roamer.x = width / 5;
   roamer.y = height / 5;
@@ -214,7 +214,7 @@ function spawnInstructions(content) {
   let lines = content.split('\n');
   
   // LINE HEIGHT: Setting this to 100 makes the "page" feel much longer
-  let lineHeight = 15; 
+  let lineHeight = 12; 
   
   for (let j = 0; j < lines.length; j++) {
     instructions.push({

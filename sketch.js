@@ -114,7 +114,7 @@ no light no lie no confession
 function setup() {
   createCanvas(windowWidth, windowHeight);
   textFont('garamond');
-  textSize(36);
+  textSize(26);
   
   roamer.x = width / 5;
   roamer.y = height / 5;
@@ -214,7 +214,7 @@ function spawnInstructions(content) {
   let lines = content.split('\n');
   
   // LINE HEIGHT: Setting this to 100 makes the "page" feel much longer
-  let lineHeight = 20; 
+  let lineHeight = 15; 
   
   for (let j = 0; j < lines.length; j++) {
     instructions.push({

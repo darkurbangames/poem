@@ -48,6 +48,49 @@ to take
  You down 
    hades way. 
 
+#2666 the goal of the system is to remove the cost of all labor and acquire only wealth; currencies that produce only currency in the grind is all that matters in the system. 
+   a veneered reality is traveling towards us, a façade of illusions in media and our consumptions. 
+   the machine must be fed.
+   brvnew wrld2.0 order.
+   adapt sobriquet adopt nom de plume adept nom de guerre. 
+   mind scanning algorithms thwarting resistance, ensuring joi de vivre, suckling at the milkmeats of preoccupation.
+   siblings, know this..
+   siblings, this is war.
+   the machine will be fed. 
+   & we shall feed it death. ☠️
+.                         404dante
+
+#27 
+                     the glass(sic) 
+                    it moistmoves, it's in 
+                   the wetwere, we.where
+                 Coldfire on 
+              nOrmandy X bradbury.exe 
+            and I'm on file - it did run, 
+         West King, I owe
+       him a trip for
+    sure. this anon nano injected, 
+fills up the dedlead in the iris- and 
+j am.damand damaged good. take 
+that track, rewind it back. 
+Aiysb narrowed her eyes. 
+I’am nit a reader. 
+pulse wet. 
+that's the end.
+(sic)
+
+#28. mise en function 
+
+… corrupts disruption 
+It's bursting for the dryline 
+enter admin acc } { facing batch 
+
+— — — telling marks the swagger add
+as klemmer is king here z he punches out the feed and turns a corner. he runs another patch - this is all party line.
+“You looking to light up, mate?” Maze filled eyes are glaring at him. 
+“no thanks, but here's a box I need you to hold” klemmer slides a keypad into the contacts palm and a heavy credit trade to boot just whizzing by, then they trod off into wet alleyways beyond. Klemmer climbs into the control pod of their ride and set off to the outer edge by the transat launch…
+
+
 556. 
        five 
            five 

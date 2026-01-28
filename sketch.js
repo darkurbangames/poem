@@ -114,7 +114,7 @@ no light no lie no confession
 function setup() {
   createCanvas(windowWidth, windowHeight);
   textFont('garamond');
-  textSize(20);
+  textSize(30);
   
   roamer.x = width / 5;
   roamer.y = height / 5;
